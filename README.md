@@ -1,0 +1,1 @@
+designing and implementing backend functionalities, integrating third-party APIs, and ensuring compliance with industry standards. Through collaborative efforts, .The project include integration of API to hit CBS (core banking system) POST & GET APIs.
